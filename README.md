@@ -17,5 +17,6 @@ audio/<br />
 audio/bg/ < here are the normal audio files 1 to 90 and the spoken letters(B, I, N, G, O).mp3 files<br />
 audio/bg_digits/ < here go the digits recordings 1 to 90 and intro.mp3 file, saying "Number" that gets played only for <br />digits 1 to 9<br />
 Please check the python source for needed python libraries that need to be installed so it can work.<br />
-Feel free to copy and expand it. It's free and for fun.<br />
+The same is valid for the C++ app. Same structure for the audio files.<br />
+Feel free to copy and expand it. It's free and for fun. Enjoy<br />
 <br />
