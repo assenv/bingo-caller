@@ -1,6 +1,6 @@
 # bingo-caller<br />
 bingo caller<br />
-This a little experiment of mine to see how chatgpt could help with building a bingo caller program in python.<br />
+This a little experiment of mine to see how chatgpt could help with building a bingo caller program in python and C++.<br />
 I wanted a small console bingo caller app, for 75 and 90 ball bingo, that will play audio mp3 files that I had to get from ttsfree.com. I needed bulgarian audio for my local village community, playing for fun.<br />
 On the ttsfree.com I did a list for all digits 1 to 90 every digit on new line. After saving the AI voice recording I cut it in Audacity each digit in separate file 1.mp3, 2.mp3....90.mp3<br />
 Similar for the separate digits. There I put the digits from 10 to 90 in a list but each digit separated by a space.<br />
